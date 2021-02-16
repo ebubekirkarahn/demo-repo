@@ -1,3 +1,3 @@
 console.log("feature B")
 
-console.log("feature yeniDAL")
+console.log("img-update")
